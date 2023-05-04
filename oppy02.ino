@@ -10,9 +10,6 @@ SoftwareSerial BT_Serial(2, 3); // RX, TX
 
 #define servo A4
 
-#define R_S A0 //ir sensor Right
-#define L_S A1 //ir sensor Left
-
 #define echo A2    //Echo pin
 #define trigger A3 //Trigger pin
 
